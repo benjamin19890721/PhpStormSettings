@@ -1,0 +1,9 @@
+<templateSet group="user">
+  <template name="td" value="TODO[$who$] $END$&#10;" description="todo" toReformat="false" toShortenFQNames="true">
+    <variable name="who" expression="user()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="false" />
+      <option name="PHP Comment" value="true" />
+    </context>
+  </template>
+</templateSet>
