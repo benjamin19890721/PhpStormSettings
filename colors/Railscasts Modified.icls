@@ -697,6 +697,27 @@
         <option name="FOREGROUND" value="a5c261" />
       </value>
     </option>
+    <option name="HAML_CLASS">
+      <value>
+        <option name="FOREGROUND" value="e8bf6a" />
+      </value>
+    </option>
+    <option name="HAML_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="bc9458" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="HAML_ID">
+      <value>
+        <option name="FOREGROUND" value="e8bf6a" />
+      </value>
+    </option>
+    <option name="HAML_RUBY_CODE">
+      <value>
+        <option name="BACKGROUND" value="232323" />
+      </value>
+    </option>
     <option name="HAML_STRING">
       <value>
         <option name="FOREGROUND" value="a5c261" />
@@ -872,6 +893,11 @@
     <option name="LESS_JS_CODE_DELIM">
       <value>
         <option name="BACKGROUND" value="232323" />
+      </value>
+    </option>
+    <option name="LESS_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="d0d0ff" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
@@ -1374,6 +1400,11 @@
         <option name="FOREGROUND" value="a5c261" />
       </value>
     </option>
+    <option name="SASS_STRING">
+      <value>
+        <option name="FOREGROUND" value="a5c261" />
+      </value>
+    </option>
     <option name="SASS_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="e8bf6a" />
@@ -1506,7 +1537,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="fdff29" />
+        <option name="FOREGROUND" value="fff12f" />
         <option name="FONT_TYPE" value="3" />
         <option name="ERROR_STRIPE_COLOR" value="ff" />
       </value>
@@ -1558,6 +1589,37 @@
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="e8bf6a" />
+      </value>
+    </option>
+    <option name="YAML_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="bc9458" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_DSTRING">
+      <value>
+        <option name="FOREGROUND" value="a5c261" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_KEY">
+      <value>
+        <option name="FOREGROUND" value="e8bf6a" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_LIST">
+      <value>
+        <option name="FOREGROUND" value="a5c261" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_STRING">
+      <value>
+        <option name="FOREGROUND" value="a5c261" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_VALUE">
+      <value>
+        <option name="FOREGROUND" value="a5c261" />
       </value>
     </option>
     <option name="YAML_SIGN">
