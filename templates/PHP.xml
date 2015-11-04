@@ -1,0 +1,15 @@
+<templateSet group="PHP">
+  <template name="log" value="Logger::info($MESSAGE$, null, $OBJECT$);" description="Logger" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="OBJECT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="loginfo" value="Logger::info($MSG$, null, $OBJ$);" toReformat="false" toShortenFQNames="true">
+    <variable name="MSG" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="OBJ" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Comment" value="true" />
+    </context>
+  </template>
+</templateSet>
